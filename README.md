@@ -4,8 +4,6 @@ My name is Jasmine Dogu, and I’m a third year at the University of Virginia. T
 
 On a personal note, I am a Turkish-American and love to cook, take yoga classes, and volunteer with children in STEM. Through my initiative, Women of Forge, I created a community for like-minded women to build their network, acquire leadership positions, and gain confidence in the workplace. I always love talking/collaborating with others, so please feel free to reach out!
 
-Hello, Myh name is
-
 <!--
 **jasminedogu/jasminedogu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
