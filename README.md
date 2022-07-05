@@ -2,7 +2,7 @@
 
 My name is Jasmine Dogu, and I’m a rising fourth year at the University of Virginia. This Summer, I will be starting at Deloitte as a Cyber Risk Analyst in the Arlington, VA office. Throughout my academic journey, I’ve discovered a deep passion for Computer Science and Statistics, which has led me to get involved with Data Science. I’m specifically interested in Machine Learning, Data Mining, and Data Visualization; I’m excited to get the opportunity to apply these interests into various fields. I believe that my perpetuous success stems from my commitment to always ask questions and dedication to incessantly pursue new challenges.
 
-On a personal note, I am a Turkish-American and love to cook, take spin classes, and volunteer with children in STEM. Through my initiative, Women of Forge, I created a community for like-minded women to build their network, acquire leadership positions, and gain confidence in the workplace. I always love talking/collaborating with others, so please feel free to reach out!
+On a personal note, I am a Turkish-American and love to cook and volunteer with children in STEM. Through my initiative, Women of Forge, I created a community for like-minded women to build their network, acquire leadership positions, and gain confidence in the workplace. I always love talking/collaborating with others, so please feel free to reach out!
 
 
 
