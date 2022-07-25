@@ -2,7 +2,7 @@
 
 My name is Jasmine Dogu, and I recently graduated from the University of Virginia as a Statistics major and a Data Science minor. I'm specifically passionate about all things machine learning related. I am an inquisitive and hard-working individual; I believe that my perpetuous success stems from my commitment to always ask questions and dedication to incessantly pursue new challenges.
 
-Outside of work, I am a Spin instructor at Cyclebar. I love seeing people grow and achieve their personal fitness goals. 
+Outside of work, I am a spin instructor at Cyclebar. I love seeing people grow and achieve their personal fitness goals. 
 
 
 <!--
